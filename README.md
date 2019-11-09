@@ -1,6 +1,6 @@
 # Svelte App
 
-very simple app made using svelte framework
+a very simple app made using svelte framework
 
 
 ## Get started
